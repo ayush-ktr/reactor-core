@@ -1,12 +1,5 @@
 package com.reactor.util;
 
-/**
- * This class is a sample custom Java type used in the exercises.
- * DO NOT MODIFY THIS CODE
- *
- * @author koushikkothagal
- */
-
 public class User {
 
     private int id;
